@@ -22,7 +22,7 @@
 
 ## 🛠️ Featured Projects
 
-### 🔹 [E-Commerce Website](https://github.com/sudhirchavan99/electronics-shop)
+### 🔹 [E-Commerce Website](https://github.com/sudhirchavan99/ecommerce-website)
 An electronics e-commerce site with product filters, admin panel, secure login, and payment system.  
 **Stack:** HTML, CSS, Bootstrap, PHP, MySQL
 
