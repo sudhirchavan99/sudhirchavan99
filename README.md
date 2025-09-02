@@ -47,7 +47,6 @@ Personal portfolio website showcasing my work and skills.
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sudhir-chavan-71a734117/)
-- 🌐 <a href="https://sudhirchavan99.github.io/mywebsite/" target="_blank">My Website</a>
 - 🌐 [My Website](https://sudhirchavan99.github.io/mywebsite/)
 - 📧 sudhirchavan99@gmail.com
 
