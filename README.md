@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Sudhir Chavan
 
-🎯 Driven developer passionate about crafting innovative solutions across web development, automation, and digital tools.
+🎯 Driven tech professional passionate about web development, automation, data analytics, and building interactive Power BI dashboards that drive smarter business decisions.
 
 🚀 Actively building with:
-- 🔷 **MERN Stack** – MongoDB, Express, React, Node
-- 🧩 **Power Platform** – PowerApps, Power Automate, Power BI
+- 📋 **Data Analysis & Visualization** – Excel, Power BI, Power Query (ETL)
+- 🧩 **Power Platform** – PowerApps, Power Automate, SharePoint
 - 🌐 **WordPress & PHP** – CMS development and customization
 - 🐍 **Python** – Automation & scripting
 
@@ -14,7 +14,7 @@
 
 | Languages & DB | Web & UI         | Microsoft Power Platform         | Tools & Platforms        |
 |----------------|------------------|----------------------------------|--------------------------|
-| HTML, CSS, JS  | WordPress, Bootstrap | PowerApps, Power Automate, SharePoint | VS Code, XAMPP, GitHub |
+| HTML, CSS, JS  | WordPress, Bootstrap | PowerApps, Power Automate, SharePoint | VS Code, XAMPP, GitHub, Jupyter Notebook |
 | PHP, Python    | React JS         | Power BI, Dataverse              | ChatGPT, Claude, Copilot |
 | MySQL, MongoDB | Responsive Design | Office 365, Excel Automation     | Google Docs, Canva       |
 
@@ -26,9 +26,13 @@
 An electronics e-commerce site with product filters, admin panel, secure login, and payment system.  
 **Stack:** HTML, CSS, Bootstrap, PHP, MySQL
 
-### 🔹 [Smart Leave Management System](https://github.com/sudhirchavan99/powerapps-leave-system)
-PowerApps-based leave request & approval workflow integrated with SharePoint & Power Automate.  
-**Stack:** Power Platform
+### 🔹 [Swiggy Sales Analysis Dashboard](https://github.com/sudhirchavan99/Swiggy-Sales-Dashboard-Excel)
+Developed an interactive Excel-based Swiggy Sales Dashboard to analyze revenue trends, customer ratings, order performance, and regional sales insights for data-driven decision making.  
+**Stack:** Microsoft Excel, Pivot Tables, Pivot Charts, Slicers, Excel Map Charts, Conditional Formatting, and Advanced Data Visualization Techniques.
+
+### 🔹 [Mobile Sales Analysis Dashboard](https://github.com/sudhirchavan99/Mobile-Sales-PowerBI-Dashboard)
+An interactive Power BI dashboard designed to analyze mobile sales performance, customer behavior, and business trends using real-world sales data.  
+**Stack:** Power BI Desktop, Excel, Power Query for data transformation, and DAX for advanced calculations and KPIs.
 
 ### 🔹 [Portfolio Website](https://sudhirchavan99.github.io/mywebsite/)
 Personal portfolio website showcasing my work and skills.  
